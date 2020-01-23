@@ -5,4 +5,4 @@ def parrot(name = "Squawk!")
   puts "Squawk!"
 end   
 
-return parrot
+parrot
